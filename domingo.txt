@@ -1,0 +1,1917 @@
+#EXTM3U
+#EXTINF:-1,#EXTINF:-24/7 bobesponja 24/7
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/547
+#EXTINF:-1,5 USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/3
+#EXTINF:-1,A&E ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/198
+#EXTINF:-1,A&E USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/4
+#EXTINF:-1,a+
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/782
+#EXTINF:-1,A3SERIES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/374
+#EXTINF:-1,ABC 13 HOUSTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/6
+#EXTINF:-1,ABC CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/5
+#EXTINF:-1,ABC LOS ANGELES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/7
+#EXTINF:-1,ABC MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/8
+#EXTINF:-1,ABC NEW YORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/9
+#EXTINF:-1,ADN 40
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/243
+#EXTINF:-1,ADRENALINA SPORTS NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/84
+#EXTINF:-1,AFIZZIONADOS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/85
+#EXTINF:-1,ALJAZEERA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/378
+#EXTINF:-1,AMC ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/10
+#EXTINF:-1,AMC ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/199
+#EXTINF:-1,AMERICAN HEROES CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11
+#EXTINF:-1,ANIMAL PLANET ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/12
+#EXTINF:-1,ANIMAL PLANET ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/184
+#EXTINF:-1,ANTENA 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/375
+#EXTINF:-1,ARIRANG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/376
+#EXTINF:-1,AXN HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/200
+#EXTINF:-1,AXS TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/620
+#EXTINF:-1,AZTECA 7
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/244
+#EXTINF:-1,AZTECA CINEMA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/259
+#EXTINF:-1,AZTECA CLICK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/397
+#EXTINF:-1,AZTECA CORAZON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/398
+#EXTINF:-1,AZTECA MUNDO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/399
+#EXTINF:-1,AZTECA UNO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/245
+#EXTINF:-1,AZTECA UNO HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/781
+#EXTINF:-1,BABY TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/162
+#EXTINF:-1,BACHILLERATO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/794
+#EXTINF:-1,BANDAMAX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/360
+#EXTINF:-1,BBC AME  ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/13
+#EXTINF:-1,BBC WORLD NEWS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/14
+#EXTINF:-1,BEIN 1 ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/86
+#EXTINF:-1,BEIN ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/161
+#EXTINF:-1,BET
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/15
+#EXTINF:-1,BET HER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/16
+#EXTINF:-1,BET JAMS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/17
+#EXTINF:-1,BETJAMS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/359
+#EXTINF:-1,BitMe
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/165
+#EXTINF:-1,BLOOMBERG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/18
+#EXTINF:-1,BOOMERANG USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/164
+#EXTINF:-1,BRAVO ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/19
+#EXTINF:-1,BTN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/155
+#EXTINF:-1,CADENA 1 APRENDE EN CASA CANAL 11.2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/792
+#EXTINF:-1,CADENA 2 APRENDE EN CASA CANAL 10.2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/984
+#EXTINF:-1,CANAL 4 GDL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/341
+#EXTINF:-1,CANAL 5 MX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/246
+#EXTINF:-1,Canal 66 Mexicali
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/342
+#EXTINF:-1,Canal Capital
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/717
+#EXTINF:-1,CANAL uno
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/713
+#EXTINF:-1,CARACOL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/377
+#EXTINF:-1,CARTOON NETWORK ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/166
+#EXTINF:-1,CARTOON NETWORK USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/413
+#EXTINF:-1,CARTOONITO    (ANTES BOOMERANG MEXICO)
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/163
+#EXTINF:-1,CBS 2 CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/2
+#EXTINF:-1,CBS 4 TEXAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1
+#EXTINF:-1,CBS KPIX5 SAN FRANCISCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/20
+#EXTINF:-1,CBS 4 MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/21
+#EXTINF:-1,CBS NEW YORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/22
+#EXTINF:-1,CBS SPORTS NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/87
+#EXTINF:-1,CINECANAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/260
+#EXTINF:-1,CINELATINO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/261
+#EXTINF:-1,CINEMAX ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/448
+#EXTINF:-1,CINEMAX ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/263
+#EXTINF:-1,CITY TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/264
+#EXTINF:-1,CLARO SPORTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/88
+#EXTINF:-1,CMT USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/23
+#EXTINF:-1,CNBC US
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/24
+#EXTINF:-1,CNN ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/249
+#EXTINF:-1,CNN INTERNACIONAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/388
+#EXTINF:-1,CNN USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/25
+#EXTINF:-1,CO ESPN 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/89
+#EXTINF:-1,CO FOX SPORTS 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/90
+#EXTINF:-1,CO FOX SPORTS 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/91
+#EXTINF:-1,CO FOX SPORTS 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/92
+#EXTINF:-1,COMEDY CENTRAL ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/26
+#EXTINF:-1,COMEDY CENTRAL ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/202
+#EXTINF:-1,COMET TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/27
+#EXTINF:-1,CONCERT CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/352
+#EXTINF:-1,COOKING
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/28
+#EXTINF:-1,COZI TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/29
+#EXTINF:-1,DE PELICULA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/266
+#EXTINF:-1,DE PELICULA CLASICO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/572
+#EXTINF:-1,DE PELICULA PLUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/571
+#EXTINF:-1,DESTINATION AMERICA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/30
+#EXTINF:-1,DISCOVERY CHANNEL ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/31
+#EXTINF:-1,DISCOVERY CHANNEL ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/185
+#EXTINF:-1,DISCOVERY CHANNEL USA ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/32
+#EXTINF:-1,DISCOVERY FAMILIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/33
+#EXTINF:-1,DISCOVERY FAMILY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/34
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/187
+#EXTINF:-1,DISCOVERY INVESTIGATION ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/406
+#EXTINF:-1,DISCOVERY INVESTIGATION ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/188
+#EXTINF:-1,DISCOVERY KIDS ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/167
+#EXTINF:-1,DISCOVERY LIFE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/35
+#EXTINF:-1,DISCOVERY SCIENCE ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/189
+#EXTINF:-1,DISCOVERY SCIENCE USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/36
+#EXTINF:-1,DISCOVERY THEATER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/190
+#EXTINF:-1,DISCOVERY TURBO ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/191
+#EXTINF:-1,DISCOVERY VELOCITY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/37
+#EXTINF:-1,DISCOVERY WORLD ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/192
+#EXTINF:-1,DISNEY CHANNEL  ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/169
+#EXTINF:-1,DISNEY CHANNEL  ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/168
+#EXTINF:-1,DISNEY Junior ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/170
+#EXTINF:-1,DISNEY Junior ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/171
+#EXTINF:-1,DISNEY XD  ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/172
+#EXTINF:-1,DISTRITO COMEDIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/203
+#EXTINF:-1,DIY NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/38
+#EXTINF:-1,DW
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/379
+#EXTINF:-1,E! Entertaiment ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/204
+#EXTINF:-1,E! Entertaiment USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/205
+#EXTINF:-1,EL GOURMET
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/206
+#EXTINF:-1,EL HERALDO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1085
+#EXTINF:-1,EL SEMBRADOR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/405
+#EXTINF:-1,El Tiempo
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/712
+#EXTINF:-1,ELEVEN SPORTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/154
+#EXTINF:-1,ENLACE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/401
+#EXTINF:-1,EPIX HITS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/280
+#EXTINF:-1,ES: #O
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/451
+#EXTINF:-1,ES: #VAMOS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/489
+#EXTINF:-1,ES: A&E
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/452
+#EXTINF:-1,ES: AMC
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/453
+#EXTINF:-1,ES: ANDALUCIA TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/454
+#EXTINF:-1,ES: Antena 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/455
+#EXTINF:-1,ES: AXN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/456
+#EXTINF:-1,ES: AXN WHITE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/457
+#EXTINF:-1,ES: B31N La Liga HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/459
+#EXTINF:-1,ES: B31N Sp0rts SPAIN HD  MOVISTAR DEPORTES AHORA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/460
+#EXTINF:-1,ES: BARCA TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/458
+#EXTINF:-1,ES: BOING
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/461
+#EXTINF:-1,ES: CALLE 13
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/462
+#EXTINF:-1,ES: COCINA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/463
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/464
+#EXTINF:-1,ES: COSMO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/465
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/468
+#EXTINF:-1,ES: CUATRO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/466
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/467
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/469
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/470
+#EXTINF:-1,ES: DIVINITY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/472
+#EXTINF:-1,ES: ENERGY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/473
+#EXTINF:-1,ES: FDF
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/474
+#EXTINF:-1,ES: FOX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/475
+#EXTINF:-1,ES: FOX LIFE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/476
+#EXTINF:-1,ES: GOL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/477
+#EXTINF:-1,ES: HISTORIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/478
+#EXTINF:-1,ES: HOLLYWOOD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/479
+#EXTINF:-1,ES: LA 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/480
+#EXTINF:-1,ES: LA 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/481
+#EXTINF:-1,ES: La Sexta
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/482
+#EXTINF:-1,ES: LaLigaTV BAR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/483
+#EXTINF:-1,ES: Mega
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/484
+#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/485
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/486
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/487
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/488
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/490
+#EXTINF:-1,ES: Movistar F1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/491
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/492
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/493
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/494
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/495
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/496
+#EXTINF:-1,ES: MOVISTAR XTRA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/497
+#EXTINF:-1,ES: NAT GEO WILD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/499
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/498
+#EXTINF:-1,ES: NEOX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/500
+#EXTINF:-1,ES: NICKELODEON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/501
+#EXTINF:-1,ES: NOVA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/502
+#EXTINF:-1,ES: ODISEA HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/503
+#EXTINF:-1,ES: PANDA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/504
+#EXTINF:-1,ES: PARAMOUNT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/505
+#EXTINF:-1,ES: Real Madrid TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/506
+#EXTINF:-1,ES: SYFY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/507
+#EXTINF:-1,ES: TCM
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/508
+#EXTINF:-1,ES: TELECINCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/509
+#EXTINF:-1,ES: TELEDEPORTE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/510
+#EXTINF:-1,ES: TNT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/511
+#EXTINF:-1,ES: TOROSTV HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/512
+#EXTINF:-1,ES: VIAJAR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/449
+#EXTINF:-1,ESCUELA PREEESCOLAR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/791
+#EXTINF:-1,ESPN 1 MX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/98
+#EXTINF:-1,ESPN 2 MX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/93
+#EXTINF:-1,ESPN 2 USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/94
+#EXTINF:-1,ESPN 3 MX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/95
+#EXTINF:-1,ESPN DEPORTES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/96
+#EXTINF:-1,ESPN PLUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/99
+#EXTINF:-1,ESPN SEC NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/100
+#EXTINF:-1,ESPN USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/101
+#EXTINF:-1,ESPN-U
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/102
+#EXTINF:-1,ESTRELLA TV MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/207
+#EXTINF:-1,ESTRELLA TV LOS ANGELES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/628
+#EXTINF:-1,EUROCHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/380
+#EXTINF:-1,EWTN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/404
+#EXTINF:-1,EXCELSIOR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/553
+#EXTINF:-1,FIGHT NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/153
+#EXTINF:-1,FOODNETWORK  ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/208
+#EXTINF:-1,FOODNETWORK ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/551
+#EXTINF:-1,FORMULA 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/103
+#EXTINF:-1,FORO TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/250
+#EXTINF:-1,FOX 11 LA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/39
+#EXTINF:-1,FOX 32 CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/42
+#EXTINF:-1,FOX 2 DETROIT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/41
+#EXTINF:-1,FOX 5 NEW YORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/43
+#EXTINF:-1,FOX 7 MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/44
+#EXTINF:-1,FOX BUSINESS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/47
+#EXTINF:-1,FOX COLLEGE SPORTS CENTRAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/104
+#EXTINF:-1,FOX DEPORTES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/152
+#EXTINF:-1,FOX KANSAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/45
+#EXTINF:-1,FOX LIFE ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/209
+#EXTINF:-1,FOX LIFE USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/210
+#EXTINF:-1,FOX NEWS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/46
+#EXTINF:-1,FOX SOCCER PLUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/151
+#EXTINF:-1,FOX SPORTS 1 ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/107
+#EXTINF:-1,FOX SPORTS 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/105
+#EXTINF:-1,FOX SPORTS 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/106
+#EXTINF:-1,FOX SPORTS KANSAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/150
+#EXTINF:-1,FREE FORM
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/48
+#EXTINF:-1,FS1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/108
+#EXTINF:-1,FS2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/109
+#EXTINF:-1,FUSE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/593
+#EXTINF:-1,FUSION
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/49
+#EXTINF:-1,FX ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/50
+#EXTINF:-1,FX ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/211
+#EXTINF:-1,FXM ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/51
+#EXTINF:-1,FXX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/52
+#EXTINF:-1,GALAVISION ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/212
+#EXTINF:-1,GAME FANTASY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/53
+#EXTINF:-1,GAME SHOW NETWORK  GSN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/54
+#EXTINF:-1,GINX SPORTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/55
+#EXTINF:-1,GLITZ ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/213
+#EXTINF:-1,GOLDEN PREMIER 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/276
+#EXTINF:-1,GOLF CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/149
+#EXTINF:-1,GOLTV ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/148
+#EXTINF:-1,HALLMARK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/277
+#EXTINF:-1,HALLMARK DRAMA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/278
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/279
+#EXTINF:-1,HBO 2 ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/290
+#EXTINF:-1,HBO 2 USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/558
+#EXTINF:-1,HBO Comedy East
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/281
+#EXTINF:-1,HBO FAMILY ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/282
+#EXTINF:-1,HBO FAMILY ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/283
+#EXTINF:-1,HBO LATINOAMERICA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/284
+#EXTINF:-1,HBO PLUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/285
+#EXTINF:-1,HBO SIGNATURE ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/287
+#EXTINF:-1,HBO SIGNATURE ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/286
+#EXTINF:-1,HBO WEST
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/288
+#EXTINF:-1,HBO ZONE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/289
+#EXTINF:-1,HGTV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/56
+#EXTINF:-1,HGTV ESP  
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/186
+#EXTINF:-1,HISTORY 2 ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/193
+#EXTINF:-1,HISTORY ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/57
+#EXTINF:-1,HISTORY ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/194
+#EXTINF:-1,HLN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/58
+#EXTINF:-1,HOLA TV ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/214
+#EXTINF:-1,HTV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/351
+#EXTINF:-1,IMAGEN TELEVISION hd
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/251
+#EXTINF:-1,LA SEXTA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/386
+#EXTINF:-1,LAS ESTRELLAS
+http://xtreamui.ddns.net:8080/tuxitmio/CKTtPfbftvmu/83
+#EXTINF:-1,LAS ESTRELLAS -2 HRS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/248
+#EXTINF:-1,LAS ESTRELLAS HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/83
+#EXTINF:-1,LIFETIME ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/60
+#EXTINF:-1,LIFETIME MOVIES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/61
+#EXTINF:-1,LOGO TV - LGBT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/59
+#EXTINF:-1,MARIA VISION
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/402
+#EXTINF:-1,MAVTV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/147
+#EXTINF:-1,MEGA PUERTO RICO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/555
+#EXTINF:-1,MILENIO NOTICIAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/252
+#EXTINF:-1,MORBIDO TERROR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/291
+#EXTINF:-1,MSNBC
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/62
+#EXTINF:-1,MTV  MX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/350
+#EXTINF:-1,MTV CLASSIC
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/358
+#EXTINF:-1,MTV HITS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/349
+#EXTINF:-1,MTV LIVE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/348
+#EXTINF:-1,MTV-2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/357
+#EXTINF:-1,MTV-U
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/356
+#EXTINF:-1,MULTIMEDIOS CDMX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/253
+#EXTINF:-1,MULTIPREMIER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/292
+#EXTINF:-1,MY 20 TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/63
+#EXTINF:-1,NATGEO ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/64
+#EXTINF:-1,NATGEO ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/196
+#EXTINF:-1,NATGEO MUNDO HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/195
+#EXTINF:-1,NATGEO WILD ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/412
+#EXTINF:-1,NBA USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/146
+#EXTINF:-1,NBC 4 LA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/65
+#EXTINF:-1,NBC 41 KANSAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/66
+#EXTINF:-1,NBC 5 CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/67
+#EXTINF:-1,NBC 6 MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/68
+#EXTINF:-1,NBC NEW ORLEANS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/69
+#EXTINF:-1,NBC 4 NEW YORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/70
+#EXTINF:-1,NBC SPORTS BAY AREA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/145
+#EXTINF:-1,NBC SPORTS BOSTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/144
+#EXTINF:-1,NBC SPORTS CALIFORNIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/143
+#EXTINF:-1,NBC SPORTS CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/142
+#EXTINF:-1,NBC SPORTS PHILADELPHIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/140
+#EXTINF:-1,NBC SPORTS WASHINGTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/139
+#EXTINF:-1,NHL NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/618
+#EXTINF:-1,NICK Jr
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/175
+#EXTINF:-1,NICK JR  ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/182
+#EXTINF:-1,NICKELODEON USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/178
+#EXTINF:-1,NICK MUSIC
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/177
+#EXTINF:-1,NICKTOONS ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/573
+#EXTINF:-1,NICKTOONS USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/181
+#EXTINF:-1,NUESTRA TELE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/627
+#EXTINF:-1,NUEVE 9
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/255
+#EXTINF:-1,OLYMPIC CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/137
+#EXTINF:-1,Once niños
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/795
+#EXTINF:-1,ONCE TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/256
+#EXTINF:-1,OUTDOOR CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/136
+#EXTINF:-1,OUTSIDE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/556
+#EXTINF:-1,OWN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/71
+#EXTINF:-1,OXYGEN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/72
+#EXTINF:-1,PAC12-ARIZONA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/396
+#EXTINF:-1,PAC12-BAYAREA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/395
+#EXTINF:-1,PAC12-LOSANGELES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/394
+#EXTINF:-1,PAC12-NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/393
+#EXTINF:-1,PAC12-OREGON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/392
+#EXTINF:-1,PAC12-WASHINGTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/391
+#EXTINF:-1,PARAMOUNT NETWORK  ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/215
+#EXTINF:-1,PARAMOUNT NETWORK ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/73
+#EXTINF:-1,PASIONES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/216
+#EXTINF:-1,PBS HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/619
+#EXTINF:-1,POP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/74
+#EXTINF:-1,PUNTO2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/411
+#EXTINF:-1,RADIOLA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/347
+#EXTINF:-1,RAI ITALIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/382
+#EXTINF:-1,RCN NOTICIAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/383
+#EXTINF:-1,RCN NOVELAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/384
+#EXTINF:-1,RETRO TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/343
+#EXTINF:-1,REVOLT MUSIC
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/355
+#EXTINF:-1,TELEHIT MUSICA    ANTES RITMOSON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/354
+#EXTINF:-1,Senial Colombia
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/714
+#EXTINF:-1,SHOWTIME 2 EAST HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/293
+#EXTINF:-1,SHOWTIME EAST HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/294
+#EXTINF:-1,SHOWTIME EXTREME EAST
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/295
+#EXTINF:-1,SHOWTIME FAMILY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/299
+#EXTINF:-1,SHOWTIME LATINO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/296
+#EXTINF:-1,SHOWTIME NEXT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/297
+#EXTINF:-1,SHOWTIME SHOWCASE EAST
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/298
+#EXTINF:-1,SONY ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/217
+#EXTINF:-1,SONY MOVIE CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/300
+#EXTINF:-1,SPACE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/301
+#EXTINF:-1,SPORTSMAN CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/113
+#EXTINF:-1,STADIUM
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/114
+#EXTINF:-1,STAR CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/201
+#EXTINF:-1,STARZ CINEMA EAST
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/303
+#EXTINF:-1,Starz Comedy East
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/304
+#EXTINF:-1,Starz East
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/305
+#EXTINF:-1,Starz Edge
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/306
+#EXTINF:-1,Starz In Black
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/307
+#EXTINF:-1,Starz Kids & Family
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/308
+#EXTINF:-1,Starz Latino
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/309
+#EXTINF:-1,Starz West
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/310
+#EXTINF:-1,STUDIO UNIVERSAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/302
+#EXTINF:-1,SUNDANCETV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/75
+#EXTINF:-1,SYFY ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/76
+#EXTINF:-1,SYFY ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/218
+#EXTINF:-1,TASTEMADE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/77
+#EXTINF:-1,TBS ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/78
+#EXTINF:-1,TBS1 ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/219
+#EXTINF:-1,TEENNICK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/176
+#EXTINF:-1,TEENNICK USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/180
+#EXTINF:-1,Teleantioquia
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/718
+#EXTINF:-1,Telecaribe
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/715
+#EXTINF:-1,TELECINCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/385
+#EXTINF:-1,TELEFORMULA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/257
+#EXTINF:-1,TELEHIT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/353
+#EXTINF:-1,TELEHIT MUSICA PLUS   ANTES TELEHIT URBANO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/344
+#EXTINF:-1,TELEMUNDO 39 DALLAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/220
+#EXTINF:-1,TELEMUNDO 44 CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/221
+#EXTINF:-1,TELEMUNDO 47 NEW YORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/222
+#EXTINF:-1,TELEMUNDO 48 SAN FRANCISCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/223
+#EXTINF:-1,TELEMUNDO 51 MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/224
+#EXTINF:-1,TELEMUNDO 52 LOS ANGELES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/225
+#EXTINF:-1,TELEMUNDO 60 SAN ANTONIO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/226
+#EXTINF:-1,TELEMUNDO HOUSTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/447
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/574
+#EXTINF:-1,TELEMUNDO PUERTO RICO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/554
+#EXTINF:-1,Telepacifico HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/711
+#EXTINF:-1,TELEVISA MONTERREY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/258
+#EXTINF:-1,TELEVISA TIJUANA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/799
+#EXTINF:-1,TENNIS CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/115
+#EXTINF:-1,The Movie Channel
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/311
+#EXTINF:-1,The Movie Channel Xtra
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/312
+#EXTINF:-1,TLC ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/229
+#EXTINF:-1,TLC USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/230
+#EXTINF:-1,TNT ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/361
+#EXTINF:-1,TNT SERIES ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/231
+#EXTINF:-1,TNT USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/232
+#EXTINF:-1,TOONCAST
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/183
+#EXTINF:-1,TOROS ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/116
+#EXTINF:-1,TRAVEL ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/79
+#EXTINF:-1,trece
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/716
+#EXTINF:-1,TRUTV ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/80
+#EXTINF:-1,TRUTV ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/233
+#EXTINF:-1,TUDNEXTRA1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/118
+#EXTINF:-1,TUDNEXTRA10
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/127
+#EXTINF:-1,TUDNEXTRA11
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/128
+#EXTINF:-1,TUDNEXTRA2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/119
+#EXTINF:-1,TUDNEXTRA3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/120
+#EXTINF:-1,TUDNEXTRA4
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/121
+#EXTINF:-1,TUDNEXTRA5
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/122
+#EXTINF:-1,TUDNEXTRA6
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/123
+#EXTINF:-1,TUDNEXTRA7
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/124
+#EXTINF:-1,TUDNEXTRA8
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/125
+#EXTINF:-1,TUDNEXTRA9
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/126
+#EXTINF:-1,TV5 FRANCE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/387
+#EXTINF:-1,TVC DEPORTES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/129
+#EXTINF:-1,TVE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/389
+#EXTINF:-1,TVG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/135
+#EXTINF:-1,TVG2 prueba prueba
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/134
+#EXTINF:-1,UFC  FIGHT PASS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/130
+#EXTINF:-1,UNICABLE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/234
+#EXTINF:-1,UNIMAS DALLAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/613
+#EXTINF:-1,UNIMAS MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/242
+#EXTINF:-1,UNIMAS NY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/614
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/235
+#EXTINF:-1,UNIVERSAL CINEMA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/270
+#EXTINF:-1,UNIVERSAL COMEDY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/269
+#EXTINF:-1,UNIVERSAL CRIME
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/268
+#EXTINF:-1,UNIVERSAL KIDS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/179
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/272
+#EXTINF:-1,UNIVERSAL PREMIERE O
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/273
+#EXTINF:-1,UNIVERSAL REALITY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/267
+#EXTINF:-1,UNIVERSO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/236
+#EXTINF:-1,VEPLUSTV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/390
+#EXTINF:-1,MTV 80S ANTES VH1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/346
+#EXTINF:-1,VH1 CLASSIC
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/345
+#EXTINF:-1,WAPA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/408
+#EXTINF:-1,WAPA 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/409
+#EXTINF:-1,WARNER CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/238
+#EXTINF:-1,WETV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/81
+#EXTINF:-1,WIN SPORTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/133
+#EXTINF:-1,WWE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/132
+#EXTINF:-1,YES NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/617
+#EXTINF:-1,REDBULL TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/112
+#EXTINF:-1,MVSTv
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/254
+#EXTINF:-1,TELEVISA MEXICALI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11219
+#EXTINF:-1,ABC 10 SAN DIEGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/636
+#EXTINF:-1,CBS 8 SAN DIEGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/635
+#EXTINF:-1,CBS LA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/784
+#EXTINF:-1,FOX 5 SAN DIEGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/633
+#EXTINF:-1,NBC 7 SAN DIEGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/634
+#EXTINF:-1,TELEMUNDO 20 SAN DIEGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/637
+#EXTINF:-1,FRANCE 24
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/381
+#EXTINF:-1,The Cowboy Channel
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1030
+#EXTINF:-1,MEGA USA MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1031
+#EXTINF:-1,WEATHER CHANNEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1118
+#EXTINF:-1,FOX 2 SAN FRANCISCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1144
+#EXTINF:-1,KTLA 5
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11204
+#EXTINF:-1,NEWSNATION
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11220
+#EXTINF:-1,DirecTV Sports + FHD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/738
+#EXTINF:-1,DirecTV Sports 2 FHD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/737
+#EXTINF:-1,Directv Sports FHD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/736
+#EXTINF:-1,TUDN LATINO MX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/744
+#EXTINF:-1,WIN SPORTS PLUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/739
+#EXTINF:-1,ZONAFUTBOL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/983
+#EXTINF:-1,Bein LaLiga
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/982
+#EXTINF:-1,BEIN-XTRA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1032
+#EXTINF:-1,TYC SPORTS USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1033
+#EXTINF:-1,LONGHORN NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/110
+#EXTINF:-1,Spectrum Sportsnet LA (Dodgers)
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1086
+#EXTINF:-1,Spectrum Sportsnet LA (Lakers)
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1087
+#EXTINF:-1,TNT SPORTS CHILE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1089
+#EXTINF:-1,MLB NETWORKS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/111
+#EXTINF:-1,SNY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1113
+#EXTINF:-1,MYTV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1114
+#EXTINF:-1,Claro Sports 3 HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1116
+#EXTINF:-1,Fox Sports 2 HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/954
+#EXTINF:-1,FOX SPORTS PREMIUM ARG.
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1122
+#EXTINF:-1,FOX SPORTS PREMIUM MEXICO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1141
+#EXTINF:-1,MLS | Game 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1147
+#EXTINF:-1,MLS | Game 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1148
+#EXTINF:-1,MLS | Game 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1149
+#EXTINF:-1,MLS | Game 4
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1150
+#EXTINF:-1,MLS | Game 5
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1151
+#EXTINF:-1,MLS | Game 6
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1152
+#EXTINF:-1,MLS | Game 7
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1153
+#EXTINF:-1,MLS | Game 8
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1154
+#EXTINF:-1,MLS | Game 9
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1155
+#EXTINF:-1,MLS | Game 10
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1156
+#EXTINF:-1,MLS | Game 11
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1157
+#EXTINF:-1,MLS | Game 12
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1158
+#EXTINF:-1,MLS | Game 13
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1159
+#EXTINF:-1,MLS | Game 14
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1160
+#EXTINF:-1,MLS | MLS 360
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1175
+#EXTINF:-1,RDI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1176
+#EXTINF:-1,HI!
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1178
+#EXTINF:-1,TUDN .U.S.A
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1186
+#EXTINF:-1,LEAGUES CUP 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11196
+#EXTINF:-1,LEAGUES CUP 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11197
+#EXTINF:-1,LEAGUES CUP 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11198
+#EXTINF:-1,LEAGUES CUP 4
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11199
+#EXTINF:-1,LEAGUES CUP 5
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11200
+#EXTINF:-1,AZTECA DEPORTES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11203
+#EXTINF:-1,NFL NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/407
+#EXTINF:-1,FIBA BASKET
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11205
+#EXTINF:-1,UNIVISION SPORTS USA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11216
+#EXTINF:-1,TEST 591 LMP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11217
+#EXTINF:-1,TEST 592 LMP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11218
+#EXTINF:-1,CANAL NASA DE YOUTUBE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/804
+#EXTINF:-1,TELEMUNDO BOSTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/639
+#EXTINF:-1,TLENOVELAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/228
+#EXTINF:-1,UNIMAS LOS ANGELES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/612
+#EXTINF:-1,TELEMUNDO-DENVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/800
+#EXTINF:-1,UNIMAS-DENVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/801
+#EXTINF:-1,GALAVISION ALBUQUERQUE SANTA FE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1000
+#EXTINF:-1,GALAVISION ATLANTA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1001
+#EXTINF:-1,GALAVISION AUSTIN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1002
+#EXTINF:-1,GALAVISION CLEVELAND
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1003
+#EXTINF:-1,GALAVISION DALLAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1004
+#EXTINF:-1,GALAVISION LA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1005
+#EXTINF:-1,GALAVISION HOUSTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1006
+#EXTINF:-1,GALAVISION LAS VEGAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1007
+#EXTINF:-1,GALAVISION NY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1008
+#EXTINF:-1,GALAVISION PHILADELPHIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1009
+#EXTINF:-1,GALAVISION SAN FRANCISCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1010
+#EXTINF:-1,MEGA TV MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1080
+#EXTINF:-1,UNIVISION TELENOVELAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1088
+#EXTINF:-1,TELEMUNDO 44 WASHINGTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1111
+#EXTINF:-1,LA CASA ACCESO TOTAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1179
+#EXTINF:-1,24/7 LA CASA DE LOS FAMOSOS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1180
+#EXTINF:-1,1 LA CASA DE LOS FAMOSOS MEXICO 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1181
+#EXTINF:-1,2 LA CASA DE LOS FAMOSOS MEXICO 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1182
+#EXTINF:-1,3 LA CASA DE LOS FAMOSOS MEXICO 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1183
+#EXTINF:-1,4 LA CASA DE LOS FAMOSOS MEXICO 4
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1184
+#EXTINF:-1,5 LA CASA DE LOS FAMOSOS MEXICO 5
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1185
+#EXTINF:-1,UNIVISION NEW YORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1187
+#EXTINF:-1,UNIVISION PR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/410
+#EXTINF:-1,UNIVISION MIAMI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/2371
+#EXTINF:-1,UNIVISION SAN FRANCISCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/2391
+#EXTINF:-1,UNIVISION LOS ANGELES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/2401
+#EXTINF:-1,UNIVISION CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/2411
+#EXTINF:-1,UNIVISION DALLAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/6111
+#EXTINF:-1,UNIVISION-DENVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/8021
+#EXTINF:-1,UNIVISION ATLANTA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11215
+#EXTINF:-1,HBO MUNDI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/796
+#EXTINF:-1,HBO POP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/797
+#EXTINF:-1,HBO XTREME
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/798
+#EXTINF:-1,STARZ ENCORE CLASSICS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/751
+#EXTINF:-1,STARZ ENCORE SUSPENSE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/752
+#EXTINF:-1,TYC SPORTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/705
+#EXTINF:-1,GOLDEN HD PLUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/275
+#EXTINF:-1,MLB | ASTROS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/753
+#EXTINF:-1,MLB | ANGELS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/754
+#EXTINF:-1,MLB | ATHLETICS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/755
+#EXTINF:-1,MLB | BLUE JAYS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/756
+#EXTINF:-1,MLB | BREWERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/757
+#EXTINF:-1,MLB | BRAVES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/758
+#EXTINF:-1,MLB | CARDINALS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/759
+#EXTINF:-1,MLB | CUBS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/760
+#EXTINF:-1,MLB | D-BACKS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/761
+#EXTINF:-1,MLB | DODGERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/762
+#EXTINF:-1,MLB | GIANTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/763
+#EXTINF:-1,MLB | MARINERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/764
+#EXTINF:-1,MLB | Marlins
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/765
+#EXTINF:-1,MLB | METS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/766
+#EXTINF:-1,MLB | NATIONALS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/767
+#EXTINF:-1,MLB | ORIOLES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/768
+#EXTINF:-1,MLB | PADRES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/769
+#EXTINF:-1,MLB | PIRATES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/770
+#EXTINF:-1,MLB | PHILLIES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/771
+#EXTINF:-1,MLB | RANGERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/772
+#EXTINF:-1,MLB | RAYS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/773
+#EXTINF:-1,MLB | RED SOX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/774
+#EXTINF:-1,MLB | REDS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/775
+#EXTINF:-1,MLB | ROCKIES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/776
+#EXTINF:-1,MLB | ROYALS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/777
+#EXTINF:-1,MLB | TWINS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/778
+#EXTINF:-1,MLB | WHITE SOX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/779
+#EXTINF:-1,MLB | YANKEES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/780
+#EXTINF:-1,MLB | TIGERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1145
+#EXTINF:-1,MLB | GUARDIANS 
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1146
+#EXTINF:-1,XXX  FAPTV  2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/584
+#EXTINF:-1,XXX BRAZZERS TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/592
+#EXTINF:-1,XXX DORCEL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/591
+#EXTINF:-1,XXX EGOIST-TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/583
+#EXTINF:-1,XXX FAPTV COMPILATION
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/590
+#EXTINF:-1,XXX HUSTLER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/589
+#EXTINF:-1,XXX PENTHOUSE 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/588
+#EXTINF:-1,XXX PINKO TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/587
+#EXTINF:-1,XXX PLAYBOY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/586
+#EXTINF:-1,XXX PRIVATE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/585
+#EXTINF:-1,XXX1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/362
+#EXTINF:-1,XXX2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/363
+#EXTINF:-1,XXX3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/364
+#EXTINF:-1,XXX4
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/365
+#EXTINF:-1,XXX5
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/366
+#EXTINF:-1,XXX6
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/367
+#EXTINF:-1,XXX7
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/368
+#EXTINF:-1,XXX8
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/369
+#EXTINF:-1,RAI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/638
+#EXTINF:-1,America Peru
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/719
+#EXTINF:-1,ATV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/720
+#EXTINF:-1,Frecuencia Latina
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/721
+#EXTINF:-1,Next TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/722
+#EXTINF:-1,Panamericana
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/723
+#EXTINF:-1,TV Peru
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/724
+#EXTINF:-1,Peru Magico
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/725
+#EXTINF:-1,GOL PERU
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/726
+#EXTINF:-1,CAPITAL TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/727
+#EXTINF:-1,BH TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/734
+#EXTINF:-1,Willax
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/785
+#EXTINF:-1,Canal N
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/789
+#EXTINF:-1,CL: 13C
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1123
+#EXTINF:-1,CL: 24 Horas
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1124
+#EXTINF:-1,CL: Canal 13
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1125
+#EXTINF:-1,CL: Canal 24 Horas
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1126
+#EXTINF:-1,CL: CDF HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1127
+#EXTINF:-1,CL: CDF Premium
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1128
+#EXTINF:-1,CL: CDO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1129
+#EXTINF:-1,CL: Chilevision HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1130
+#EXTINF:-1,CL: Estadio CDF HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1131
+#EXTINF:-1,CL: Etc TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1132
+#EXTINF:-1,CL: La Red HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1133
+#EXTINF:-1,CL: Mega HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1135
+#EXTINF:-1,CL: Rec TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1136
+#EXTINF:-1,CL: Sporting HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1137
+#EXTINF:-1,CL: Teletrak
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1138
+#EXTINF:-1,CL: TV +
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1139
+#EXTINF:-1,CL: TVN HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1140
+#EXTINF:-1,AZTECA UNO -2 HRS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/783
+#EXTINF:-1,CADENA 3 APRENDE EN CASA CANAL 3.2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/985
+#EXTINF:-1,CADENA 4 APRENDE EN CASA CANAL 14.2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/986
+#EXTINF:-1,MULTIMEDIOS MTY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/735
+#EXTINF:-1,CADENA 6 APRENDE TV CANAL 5.2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/988
+#EXTINF:-1,NMAS NOTICIAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1142
+#EXTINF:-1,ES: MOVISTAR LA LIGA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1121
+#EXTINF:-1,#EXTINF:-24/7 Alf 24/7
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/548
+#EXTINF:-1,#EXTINF:-24/7 caballeros del zodiaco
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/546
+#EXTINF:-1,#EXTINF:-24/7 Dinosaurios
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/544
+#EXTINF:-1,#EXTINF:-24/7 Dragon Ball GT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/537
+#EXTINF:-1,#EXTINF:-24/7 Dragon Ball Super
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/536
+#EXTINF:-1,#EXTINF:-24/7 Dragon Ball Z
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/538
+#EXTINF:-1,#EXTINF:-24/7 El ChapulÃ­n Colorado
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/543
+#EXTINF:-1,#EXTINF:-24/7 El Chavo del 8
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/542
+#EXTINF:-1,#EXTINF:-24/7 he man
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/535
+#EXTINF:-1,#EXTINF:-24/7 luis miguel
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/534
+#EXTINF:-1,#EXTINF:-24/7 malcolm
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/533
+#EXTINF:-1,#EXTINF:-24/7 maravillosos
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/532
+#EXTINF:-1,#EXTINF:-24/7 mazingerz
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/531
+#EXTINF:-1,#EXTINF:-24/7 naruto
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/530
+#EXTINF:-1,#EXTINF:-24/7 Peliculas estrenos
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/517
+#EXTINF:-1,#EXTINF:-24/7 pinky
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/529
+#EXTINF:-1,#EXTINF:-24/7 pokemon
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/528
+#EXTINF:-1,#EXTINF:-24/7 powerangers
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/527
+#EXTINF:-1,#EXTINF:-24/7 robotech
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/526
+#EXTINF:-1,#EXTINF:-24/7 sailor
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/525
+#EXTINF:-1,#EXTINF:-24/7 shera
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/524
+#EXTINF:-1,#EXTINF:-24/7 simpsons
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/523
+#EXTINF:-1,#EXTINF:-24/7 smallville
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/522
+#EXTINF:-1,#EXTINF:-24/7 south park
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/521
+#EXTINF:-1,#EXTINF:-24/7 spiderman
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/520
+#EXTINF:-1,#EXTINF:-24/7 strangerthings
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/519
+#EXTINF:-1,#EXTINF:-24/7 super campeones
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/518
+#EXTINF:-1,#EXTINF:-24/7 The Walking Dead
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/515
+#EXTINF:-1,#EXTINF:-24/7 thundercats
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/516
+#EXTINF:-1,#EXTINF:-24/7 xmen
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/514
+#EXTINF:-1,Los locos Addams
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/549
+#EXTINF:-1,#EXTINF:-24/7 Cantinflas
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/803
+#EXTINF:-1,WIPR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/557
+#EXTINF:-1,NBA 1
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/600
+#EXTINF:-1,NBA 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/601
+#EXTINF:-1,NBA 3
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/602
+#EXTINF:-1,NBA 4
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/603
+#EXTINF:-1,NBA 5
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/604
+#EXTINF:-1,NBA 6
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/605
+#EXTINF:-1,NBA 7
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/606
+#EXTINF:-1,NBA 8
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/607
+#EXTINF:-1,NBA 9
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/608
+#EXTINF:-1,NBA 10
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/609
+#EXTINF:-1,1=LMP CHARROS DE JALISCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/576
+#EXTINF:-1,2=LMP AGUILAS DE MEXICALI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/575
+#EXTINF:-1,3=LMP TOMATEROS DE CULIACAN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1021
+#EXTINF:-1,4=LMP NARANJEROS DE HERMOSILLO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1022
+#EXTINF:-1,5=LMP VENADOS DE MAZATLAN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1023
+#EXTINF:-1,6=LMP YAQUIS DE CD.OBREGON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1024
+#EXTINF:-1,7=LMP MAYOS DE NAVOJOA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1025
+#EXTINF:-1,8=LMP ALGODONEROS DE GUASAVE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1026
+#EXTINF:-1,9=LMP CANEROS DE LOS MOCHIS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1027
+#EXTINF:-1,10=LMP SULTANES DE MONTERREY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1028
+#EXTINF:-1,TEST 593 LMP 
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11221
+#EXTINF:-1,TEST 594 LMP 
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11222
+#EXTINF:-1,TEST 595 LMP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/11223
+#EXTINF:-1,NFL CLEVELAND-BROWNS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/446
+#EXTINF:-1,NFL NEWYORK-JETS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/422
+#EXTINF:-1,NFL  ATLANTA FALCONS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/444
+#EXTINF:-1,NFL ARIZONA-CARDINALS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/443
+#EXTINF:-1,NFL BALTIMORE-RAVENS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/442
+#EXTINF:-1,NFL BUFFALO-BILLS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/441
+#EXTINF:-1,NFL CAROLINA-PANTHERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/440
+#EXTINF:-1,NFL CHICAGO-BEARS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/439
+#EXTINF:-1,NFL CINCINATI BENGALS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/438
+#EXTINF:-1,NFL DALLAS-COWBOYS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/437
+#EXTINF:-1,NFL DENVER-BRONCOS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/436
+#EXTINF:-1,NFL DETROIT-LIONS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/435
+#EXTINF:-1,NFL HOUSTON-TEXANS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/433
+#EXTINF:-1,NFL INDIANAPOLIS-COLTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/432
+#EXTINF:-1,NFL JACKSONVILLE-JAGUARS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/431
+#EXTINF:-1,NFL KANSASCITY-CHIEFS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/430
+#EXTINF:-1,NFL LAS VEGAS RAIDERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/421
+#EXTINF:-1,NFL LOS ANGELES RAMS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/428
+#EXTINF:-1,NFL LOS ANGELES-CHARGERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/429
+#EXTINF:-1,NFL MIAMI-DOLPHINS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/445
+#EXTINF:-1,NFL MINNESOTA-VIKINGS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/426
+#EXTINF:-1,NFL NEW ENGLAND-PATRIOTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/425
+#EXTINF:-1,NFL NEW ORLEANS-SAINTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/424
+#EXTINF:-1,NFL NEWYORK-GIANTS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/423
+#EXTINF:-1,NFL PHILADELPHIA-EAGLES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/420
+#EXTINF:-1,NFL PITISBURGH-STEELERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/419
+#EXTINF:-1,NFL RED ZONE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/579
+#EXTINF:-1,NFL SAN FRANCISCO 49ERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1019
+#EXTINF:-1,NFL SEATTLE-SEAHAWKS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/418
+#EXTINF:-1,NFL TAMPA-BAY-BUCCANEERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/417
+#EXTINF:-1,NFL TENNESSEE-TITANS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/416
+#EXTINF:-1,NFL WASHINGTON-COMMANDERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/415
+#EXTINF:-1,NFL GREENBAY PACKERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/434
+#EXTINF:-1,NHL | CALGARY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1049
+#EXTINF:-1,NHL | FLORIDA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1050
+#EXTINF:-1,NHL | PHILADELPHIA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1051
+#EXTINF:-1,NHL | VANCOUVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1052
+#EXTINF:-1,NHL | COLUMBUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1053
+#EXTINF:-1,NHL | ANAHEIM
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1054
+#EXTINF:-1,NHL | NEW JERSEY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1055
+#EXTINF:-1,NHL | CAROLINA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1056
+#EXTINF:-1,NHL | WASHINGTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1057
+#EXTINF:-1,NHL | MINNESOTA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1058
+#EXTINF:-1,NHL | LOS ANGELES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1059
+#EXTINF:-1,NHL | VEGAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1060
+#EXTINF:-1,NHL | NY RANGERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1061
+#EXTINF:-1,NHL | NY ISLANDERS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1062
+#EXTINF:-1,NHL | DETROIT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1063
+#EXTINF:-1,NHL | BOSTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1064
+#EXTINF:-1,NHL | BUFFALO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1065
+#EXTINF:-1,NHL | TAMPA BAY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1066
+#EXTINF:-1,NHL | CHICAGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1067
+#EXTINF:-1,NHL | COLORADO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1068
+#EXTINF:-1,NHL | EDMONTON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1069
+#EXTINF:-1,NHL | DALLAS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1070
+#EXTINF:-1,NHL | MONTREAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1071
+#EXTINF:-1,NHL | ST. LOUIS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1072
+#EXTINF:-1,NHL | OTTAWA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1073
+#EXTINF:-1,NHL | PITTSBURGH
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1074
+#EXTINF:-1,NHL | NASHVILLE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1075
+#EXTINF:-1,NHL | WINNIPEG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1076
+#EXTINF:-1,NHL | SAN JOSE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1077
+#EXTINF:-1,NHL |  TORONTO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1078
+#EXTINF:-1,NHL | ARIZONA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1079
+#EXTINF:-1,Antena Latina
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/647
+#EXTINF:-1,CDN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/657
+#EXTINF:-1,CDN Sports Max
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/658
+#EXTINF:-1,CERTV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/660
+#EXTINF:-1,CineVision
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/663
+#EXTINF:-1,Color Vision
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/659
+#EXTINF:-1,DIGITAL 15
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/643
+#EXTINF:-1,Megavision
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/665
+#EXTINF:-1,Supercanal 33
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/656
+#EXTINF:-1,TeleAntillas
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/649
+#EXTINF:-1,TeleCentro
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/655
+#EXTINF:-1,Telefuturo
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/650
+#EXTINF:-1,Teleimpacto
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/642
+#EXTINF:-1,Telemedios
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/654
+#EXTINF:-1,Telemicro
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/644
+#EXTINF:-1,Telesistema
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/646
+#EXTINF:-1,Teleuniverso
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/667
+#EXTINF:-1,TELEMEDELLIN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1083
+#EXTINF:-1,CA: ABC East HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/805
+#EXTINF:-1,CA: ABC HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/806
+#EXTINF:-1,CA: ABC SPARK HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/807
+#EXTINF:-1,CA: AMC HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/808
+#EXTINF:-1,CA: ANIMAL PLANET HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/809
+#EXTINF:-1,CA: BBC CANADA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/810
+#EXTINF:-1,CA: BNN BLOOMBERG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/811
+#EXTINF:-1,CA: BRAVO HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/812
+#EXTINF:-1,CA: Canada One
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/813
+#EXTINF:-1,CA: CARTOON NETWORK HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/814
+#EXTINF:-1,CA: CBC CALGARY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/816
+#EXTINF:-1,CA: CBC CALGARY HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/817
+#EXTINF:-1,CA: CBC Charlottetown
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/818
+#EXTINF:-1,CA: CBC Halifax
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/820
+#EXTINF:-1,CA: CBC HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/821
+#EXTINF:-1,CA: CBC HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/822
+#EXTINF:-1,CA: CBC MONTREAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/823
+#EXTINF:-1,CA: CBC MONTREAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/824
+#EXTINF:-1,CA: CBC NEWS HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/825
+#EXTINF:-1,CA: CBC OTTAWA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/826
+#EXTINF:-1,CA: CBC OTTAWA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/827
+#EXTINF:-1,CA: CBC REGINA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/815
+#EXTINF:-1,CA: CBC REGINA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/828
+#EXTINF:-1,CA: CBC TORONTO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/829
+#EXTINF:-1,CA: CBC TORONTO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/830
+#EXTINF:-1,CA: CBC VANCOUVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/831
+#EXTINF:-1,CA: CBC VANCOUVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/832
+#EXTINF:-1,CA: CBC WINDSOR
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/833
+#EXTINF:-1,CA: CBC WINNIPEG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/834
+#EXTINF:-1,CA: CHCH HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/835
+#EXTINF:-1,CA: CITY CALGARY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/836
+#EXTINF:-1,CA: CITY MONTREAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/837
+#EXTINF:-1,CA: CITY TORONTO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/838
+#EXTINF:-1,CA: CITY TV TORONTO HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/839
+#EXTINF:-1,CA: CITY VANCOUVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/842
+#EXTINF:-1,CA: CMT HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/843
+#EXTINF:-1,CA: CNN HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/844
+#EXTINF:-1,CA: CNN INTERNATIONAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/845
+#EXTINF:-1,CA: COMEDY HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/846
+#EXTINF:-1,CA: COOKING CHANNEL HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/847
+#EXTINF:-1,CA: COTTAGE LIFE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/848
+#EXTINF:-1,CA: CP 24 HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/849
+#EXTINF:-1,CA: CP 24 HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/850
+#EXTINF:-1,CA: CPAC HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/851
+#EXTINF:-1,CA: CRIME & INVESTIGATION HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/852
+#EXTINF:-1,CA: CTV 2 VANCOUVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/869
+#EXTINF:-1,CA: CTV BARRIE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/853
+#EXTINF:-1,CA: CTV CALGARY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/854
+#EXTINF:-1,CA: CTV HALIFAX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/855
+#EXTINF:-1,CA: CTV KITCHENER HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/856
+#EXTINF:-1,CA: CTV LONDON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/857
+#EXTINF:-1,CA: CTV MONTREAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/858
+#EXTINF:-1,CA: CTV MONTREAL
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/859
+#EXTINF:-1,CA: CTV NEWS CHANNEL HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/860
+#EXTINF:-1,CA: CTV News
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/861
+#EXTINF:-1,CA: CTV NEWS NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/862
+#EXTINF:-1,CA: CTV OTTAWA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/863
+#EXTINF:-1,CA: CTV SCI-FI
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/865
+#EXTINF:-1,CA: CTV TORONTO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/866
+#EXTINF:-1,CA: CTV TORONTO SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/867
+#EXTINF:-1,CA: CTV VANCOUVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/868
+#EXTINF:-1,CA: CTV2 OTTAWA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/864
+#EXTINF:-1,CA: DAYSTAR TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/870
+#EXTINF:-1,CA: DEJAVIEW SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/871
+#EXTINF:-1,CA: DISCOVERY HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/872
+#EXTINF:-1,CA: DISCOVERY SCIENCE HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/873
+#EXTINF:-1,CA: DIY NETWORK HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/874
+#EXTINF:-1,CA: FOOD NETWORK
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/875
+#EXTINF:-1,CA: Fox HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/876
+#EXTINF:-1,CA: FOX NEWS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/877
+#EXTINF:-1,CA: FX HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/878
+#EXTINF:-1,CA: FXX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/879
+#EXTINF:-1,CA: GLOBAL HALIFAX
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/880
+#EXTINF:-1,CA: GLOBAL HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/881
+#EXTINF:-1,CA: GLOBAL TORONTO SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/882
+#EXTINF:-1,CA: GLOBAL VANCOUVER
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/883
+#EXTINF:-1,CA: GLOBAL VANCOUVER SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/884
+#EXTINF:-1,CA: GUSTO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/885
+#EXTINF:-1,CA: H2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/886
+#EXTINF:-1,CA: HBO 2 HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/887
+#EXTINF:-1,CA: HBO HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/888
+#EXTINF:-1,CA: HGTV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/889
+#EXTINF:-1,CA: HISTORY HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/890
+#EXTINF:-1,CA: HLN
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/891
+#EXTINF:-1,CA: ID
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/892
+#EXTINF:-1,CA: IFC HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/893
+#EXTINF:-1,CA: IIPC TV
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/894
+#EXTINF:-1,CA: INVESTIGATION DISCOVERY HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/895
+#EXTINF:-1,CA: KTLA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/896
+#EXTINF:-1,CA: LIFETIME HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/898
+#EXTINF:-1,CA: LIFETIME MOVIE NETWORK HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/899
+#EXTINF:-1,CA: Love Nature
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/900
+#EXTINF:-1,CA: MakeFul
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/901
+#EXTINF:-1,A&E SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/918
+#EXTINF:-1,Adn 40 SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/910
+#EXTINF:-1,Animal Planet
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/946
+#EXTINF:-1,AXN SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/919
+#EXTINF:-1,AzCinema SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/967
+#EXTINF:-1,Azcorazon SD 
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/922
+#EXTINF:-1,Azteca 7 SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/907
+#EXTINF:-1,Azteca Uno SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/903
+#EXTINF:-1,BitMe
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/939
+#EXTINF:-1,Boomerang SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/938
+#EXTINF:-1,Canal 11 SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/909
+#EXTINF:-1,Canal 5 SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/906
+#EXTINF:-1,Cartoon Network SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/936
+#EXTINF:-1,Cinecanal SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/968
+#EXTINF:-1,Cinemax SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/977
+#EXTINF:-1,De Pelicula
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/981
+#EXTINF:-1,Discovery Channel
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/945
+#EXTINF:-1,Discovery Home & Health SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/947
+#EXTINF:-1,Discovery Investigation SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/925
+#EXTINF:-1,Discovery Kids SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/929
+#EXTINF:-1,Discovery Science
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/950
+#EXTINF:-1,Discovery Theater HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/941
+#EXTINF:-1,Discovery World HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/944
+#EXTINF:-1,Disney Channel SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/932
+#EXTINF:-1,Disney Junior SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/930
+#EXTINF:-1,Distrito Comedia SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/928
+#EXTINF:-1,E! entertainment SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/923
+#EXTINF:-1,ESPN 2 SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/959
+#EXTINF:-1,ESPN 3 SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/952
+#EXTINF:-1,ESPN SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/958
+#EXTINF:-1,ESPN PLUS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/951
+#EXTINF:-1,Las Estrellas SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/902
+#EXTINF:-1,ForoTv SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/905
+#EXTINF:-1,UNIVERSAL REALITY SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/963
+#EXTINF:-1,Star Channel SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/913
+#EXTINF:-1,UNIVERSAL COMEDY SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/966
+#EXTINF:-1,UNIVERSAL PREMIERE SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/964
+#EXTINF:-1,UNIVERSAL PREMIERE O SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/962
+#EXTINF:-1,Fox Sports 2
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/960
+#EXTINF:-1,Fox Sports 3 SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/961
+#EXTINF:-1,Fox Sports SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/953
+#EXTINF:-1,FX Movies SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/971
+#EXTINF:-1,FX SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/917
+#EXTINF:-1,NUEVE TELEVISA  SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/908
+#EXTINF:-1,Golden
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/979
+#EXTINF:-1,Golden Edge
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/980
+#EXTINF:-1,Golden SD Plus
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/970
+#EXTINF:-1,History
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/942
+#EXTINF:-1,ImagenTV SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/904
+#EXTINF:-1,Lifetime
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/949
+#EXTINF:-1,Morbido SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/976
+#EXTINF:-1,Multimedios SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/911
+#EXTINF:-1,NATGEO SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/948
+#EXTINF:-1,Nick HD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/934
+#EXTINF:-1,Nick SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/935
+#EXTINF:-1,Nick Music
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/933
+#EXTINF:-1,Sony SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/914
+#EXTINF:-1,Space SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/974
+#EXTINF:-1,Syfy SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/924
+#EXTINF:-1,Teleformula SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/912
+#EXTINF:-1,TNT
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/978
+#EXTINF:-1,TNT SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/969
+#EXTINF:-1,TNT Series SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/926
+#EXTINF:-1,Tooncast
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/940
+#EXTINF:-1,TruTV SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/920
+#EXTINF:-1,Unicable SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/921
+#EXTINF:-1,Universal Channel SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/916
+#EXTINF:-1,Warner  SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/915
+#EXTINF:-1,UNIVERSAL CRIME SD
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/965
+#EXTINF:-1,Nick Jr SD 
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/931
+#EXTINF:-1,ESPN PLUS EDU CUENTA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1081
+#EXTINF:-1,PPV 4 UFC  ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1082
+#EXTINF:-1,PPV 2 BOX LUIS CASTILLO ESP
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/616
+#EXTINF:-1,PPV  1 ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/615
+#EXTINF:-1,PPV 3 UFC ENG
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1090
+#EXTINF:-1,PPV 5 CONCIERTOS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1112
+#EXTINF:-1,EL FINANCIERO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1143
+#EXTINF:-1,LMB ACEREROS DE MONCLOVA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1092
+#EXTINF:-1,LMB AGUILA DE VERACRUZ
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1093
+#EXTINF:-1,LMB DIABLOS ROJOS DEL MEXICO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1094
+#EXTINF:-1,LMB GENERALES DE DURANGO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1095
+#EXTINF:-1,LMB GUERREROS DE OAXACA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1096
+#EXTINF:-1,LMB MARIACHIS DE GUADALAJARA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1097
+#EXTINF:-1,LMB OLMECAS DE TABASCO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1098
+#EXTINF:-1,LMB PERICOS DE PUEBLA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1099
+#EXTINF:-1,LMB PIRATAS DE CAMPECHE
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1100
+#EXTINF:-1,LMB RIELEROS DE AGUASCALIENTES
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1101
+#EXTINF:-1,LMB SARAPEROS DE SALTILLO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1102
+#EXTINF:-1,LMB SULTANES DE MONTERREY
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1103
+#EXTINF:-1,LMB TECOLOTES DE LOS DOS LAREDOS
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1104
+#EXTINF:-1,LMB TIGRES DE QUIINTANA ROO
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1105
+#EXTINF:-1,LMB BRAVOS DE LEON
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1106
+#EXTINF:-1,LMB ALGODONEROS DE UNION LAGUNA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1108
+#EXTINF:-1,LMB TOROS DE TIJUANA
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1109
+#EXTINF:-1,LMB Leones de Yucatan
+http://xtreamui.ddns.net:8080/innova/5t4GAv5W82/1110
